@@ -20,8 +20,8 @@
     "url": "https://github.com/marsaud/node-smb2"
   },
   "dependencies": {
-    "babel-runtime": "^5.8.34",
-    "bluebird": "^2.10.2",
+    "babel-runtime": "^6.18.0",
+    "bluebird": "^3.4.6",
     "ntlm": "~0.1.1"
   },
   "keywords": [
@@ -37,10 +37,10 @@
     "prepublish": "npm run build"
   },
   "devDependencies": {
-    "babel": "^5.8.34",
-    "babel-eslint": "^4.1.6",
+    "babel": "^6.5.2",
+    "babel-eslint": "^7.1.0",
     "source-map-support": "^0.4.0",
-    "standard": "^5.4.1"
+    "standard": "^8.5.0"
   },
   "standard": {
     "parser": "babel-eslint"
